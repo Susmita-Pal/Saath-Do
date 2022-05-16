@@ -2,7 +2,6 @@ AdvancedHTTPServer==2.2.0
 beautifulsoup4==4.9.3
 dj-database-url==0.5.0
 Django==3.1.7
-decouple==0.0.7
 dnslib==0.9.14
 dnspython==2.1.0
 email-validator==1.1.1
@@ -61,3 +60,4 @@ psycopg2
 
 djangorestframework~=3.13.1
 twilio~=7.9.0
+decouple
