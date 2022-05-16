@@ -1,0 +1,1 @@
+web: gunicorn cfg_project_72.wsgi --log-file -
