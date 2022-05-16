@@ -37,20 +37,6 @@ bruter==0.0.2
 bs4==0.0.1
 CacheControl==0.12.10
 cachetools==4.2.4
-cairocffi==1.2.0
-
-cbor==1.0.0
-certifi==2020.6.20
-cffi==1.14.4
-chardet==4.0.0
-CherryPy==8.9.1
-
-click==7.1.2
-click-plugins==1.1.1
-colorama==0.4.4
-configobj==5.0.6
-constantly==15.1.0
-
 crypto==1.4.1
 cryptography==3.3.1
 
